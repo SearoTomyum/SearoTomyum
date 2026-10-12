@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  <h1>Tomyum</h1>
+  <p>Building tools and content for people starting from zero.</p>
+  <p>
+    <a href="https://peemaphon.netlify.app/">Zerolap</a> ·
+    <a href="https://github.com/SearoTomyum">GitHub</a>
+  </p>
+</div>
 
-<!--
-**SearoTomyum/SearoTomyum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+## Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Zerolap** is a focused starting point for people turning curiosity into an online skill.
+
+I like simple systems, useful tools, and learning in public.
+
+<br />
+
+## Activity
+
+<img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
+
+<br />
+
+<sub>Made with curiosity. Updated automatically.</sub>
